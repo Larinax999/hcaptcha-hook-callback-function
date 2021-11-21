@@ -1,0 +1,1 @@
+# hcaptcha-hook-callback-function
